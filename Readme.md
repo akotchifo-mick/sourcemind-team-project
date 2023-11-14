@@ -9,8 +9,13 @@
 5. docker-compose build
 6. docker-compose up -d
 ---
+## Links
 
-## Consider
+1. front : https://edu-exchange.netlify.app/
+2. back : https://eduexchange.onrender.com/api/v1/swagger-ui/index.html
+3. docker : https://hub.docker.com/layers/joyau/sourcemind/v1.2/images/sha256-d941b60b6ff34e8961f4e8d629cec1b3dd9148373f2818d2f0d9e4ecaf78d166?tab=layers
+
+## How to run locally
 
 **1. You should consider comments in application.properties of back-end folder to make app work locally : use your own database with your credentials**
 
